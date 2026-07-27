@@ -1,0 +1,9 @@
+# robots.txt
+User-agent: *
+Allow: /
+
+Disallow: /admin_dashboard.php
+Disallow: /admin_login.php
+Disallow: /availability_manager.php
+Disallow: /content_page.php
+Disallow: /config.php
